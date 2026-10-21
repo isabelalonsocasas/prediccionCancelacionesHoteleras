@@ -1,0 +1,11 @@
+# Analisis, visualizacion y modelos
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+shap
+
+# Entorno para abrir y ejecutar el notebook
+jupyterlab
+ipykernel
